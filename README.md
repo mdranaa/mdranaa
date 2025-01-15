@@ -12,7 +12,7 @@ Personal Website: https://mdranaa.com/
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=56rana)
+![](https://komarev.com/ghpvc/?username=ranacode6)
 
 ## Connect with me
 
