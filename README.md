@@ -21,7 +21,7 @@ Personal Website: https://mdranaa.com/
 [<img align="left" alt="substack" src="https://img.shields.io/badge/substack-FE7A16?logo=substack&logoColor=white&style=for-the-badge" />](https://mdranaa.substack.com)
 [<img align="left" alt="dev.to" src="https://img.shields.io/badge/dev.to-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white" />](https://dev.to/@mdranaa)
 [<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/ranacode6/)
-[<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://x.com/ranacode6)
+[<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://x.com/mdranaaa)
 
 <br>
 <br>
