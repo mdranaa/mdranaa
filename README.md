@@ -17,7 +17,7 @@ Personal Website: https://mdranaa.com/
 ## Connect with me
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ranacode2)
-[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@ranacode6)
+[<img align="left" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@mdranaa)
 [<img align="left" alt="substack" src="https://img.shields.io/badge/substack-FE7A16?logo=substack&logoColor=white&style=for-the-badge" />](https://mdranaa.substack.com)
 [<img align="left" alt="dev.to" src="https://img.shields.io/badge/dev.to-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white" />](https://dev.to/@mdranaa)
 [<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/ranacode6/)
