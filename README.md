@@ -51,9 +51,9 @@ Personal Website: https://mdranaa.com/
 
  -->
 
-<!-- ## Latest Medium Posts
+## Latest Medium Posts
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@56faisal/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@56faisal/0" alt="Latest medium article"> -->
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mdranaa/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mdranaa/0" alt="Latest medium article">
 
 <!--
 **Mohammad-Faisal/Mohammad-Faisal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
