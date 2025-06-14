@@ -4,7 +4,7 @@ I am a fullstack software engineer working with ReactJS, NodeJS and AWS Serverle
 
 I am also a technical writer. Love to share what I learn.
 
-Personal Website: https://mdranaa.com/
+Personal Website: https://mdranaa.com
 
 [<img align="left" alt="linked-in" style="width: 50px; height: 50px" src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" />](https://www.youtube.com/channel/UC8kXq7fCFVWfux0j6nbAMHA)
 
